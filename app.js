@@ -51,7 +51,7 @@ app.use(BodyParser.urlencoded({ extended: true }));
 
 /**DB Connection */
 pgCon()
-runKafka()
+//runKafka()
 
 // cronJob()
 // dbCon()
