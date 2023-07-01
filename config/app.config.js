@@ -14,8 +14,7 @@ const config = {
         database: '',
         password: '',
         host: '',                   
-        port: 8085
-        ,
+        port: 0000,
         max: 10, // max number of clients in the pool
         statement_timeout: 864000000,
         idleTimeoutMillis: 864000000
