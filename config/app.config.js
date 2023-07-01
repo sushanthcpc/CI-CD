@@ -35,9 +35,9 @@ const config = {
     },
 
     KAFKA_KEYS: {
-        CONSUMER_NAME: '',
-        TOPIC_NAME: '',
-        CLIENT_ID: ''
+        CONSUMER_NAME: 'sush consumer',
+        TOPIC_NAME: 'sush topic',
+        CLIENT_ID: 'sush client'
     },
 
     ACL_CREDENTIALS: {
